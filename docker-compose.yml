@@ -1,0 +1,12 @@
+version: '3'
+services:
+  pyjn:
+      image: tburnip/jupyter
+      container_name: pyjn
+      ports:
+        - 8888:8888
+      volumes: 
+        - ./Notebooks:/usr/src/app/
+      command: 
+        jupyter notebook --allow-root --ip=0.0.0.0
+
