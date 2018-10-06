@@ -1,1 +1,1 @@
-c.NotebookApp.password = u'sha1:b799000a25df:6c3c7802661761417b954f4e8b83dbb74ce3e9f1'
+c.NotebookApp.password = u'sha1:295566e08795:13f7d285bc7f63cb0b710f28d55f872cb6e967b1'
